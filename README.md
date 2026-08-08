@@ -17,3 +17,6 @@ HOW TO USE:
    Then adjust the GPUParticles2D node to have a Max/Total Particle count that is equal to Grid Size ^ 2. (Example: 3x3 grid = 9 particles)
 
 For now this will only break up the texture into square pieces on a square grid, maybe one day or with some help it'll have more utility.
+
+
+<img width="208" height="152" alt="20260808-1318-13 1231044" src="https://github.com/user-attachments/assets/e2abeb01-522a-4c57-b6d8-c200849fa5a7" />
